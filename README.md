@@ -86,6 +86,6 @@ Loyalty Transactions list page
 
 Phyu Sin Thant
 * 💼 Aspiring Junior Business Central Developer
-* 📧 [phyusinthant.94@gmail.com](phyusinthant.94@gmail.com)
+* 📧 [phyusinthant.94@gmail.com](mailto:phyusinthant.94@gmail.com)
 
 ---
